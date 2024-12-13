@@ -2,6 +2,8 @@
 
 # MyList
 # 域名后缀匹配
-DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
+
+# Vanke
+DOMAIN-SUFFIX,vanke.com
+DOMAIN-KEYWORD,vanke
+DOMAIN-SUFFIX,vankecmcmg.eastasia.cloudapp.azure.com
