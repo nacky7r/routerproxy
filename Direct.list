@@ -590,3 +590,8 @@ DOMAIN-SUFFIX,zhuihd.com
 DOMAIN-SUFFIX,vanke.com
 DOMAIN-KEYWORD,vanke
 DOMAIN-SUFFIX,vankecmcmg.eastasia.cloudapp.azure.com
+
+# Firefox
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,mozilla.org
