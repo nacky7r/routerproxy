@@ -586,11 +586,6 @@ DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
 
-# Vanke
-DOMAIN-SUFFIX,vanke.com
-DOMAIN-KEYWORD,vanke
-DOMAIN-SUFFIX,vankecmcmg.eastasia.cloudapp.azure.com
-
 # Firefox
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,mozilla.com
