@@ -217,15 +217,6 @@ DOMAIN-SUFFIX,meitudata.com
 DOMAIN-SUFFIX,meitustat.com
 DOMAIN-SUFFIX,meipai.com
 
-# LeTV 乐视
-DOMAIN-SUFFIX,le.com
-DOMAIN-SUFFIX,lecloud.com
-DOMAIN-SUFFIX,letv.com
-DOMAIN-SUFFIX,letvcloud.com
-DOMAIN-SUFFIX,letvimg.com
-DOMAIN-SUFFIX,letvlive.com
-DOMAIN-SUFFIX,letvstore.com
-
 # MGTV 芒果TV
 DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,hunantv.com
