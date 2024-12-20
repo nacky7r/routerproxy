@@ -1,9 +1,0 @@
-# 直连补充列表(国内域名不解析时，防止走代理使用)
-
-# MyList
-# 域名后缀匹配
-
-# Vanke
-DOMAIN-SUFFIX,vanke.com
-DOMAIN-KEYWORD,vanke
-DOMAIN-SUFFIX,vankecmcmg.eastasia.cloudapp.azure.com
