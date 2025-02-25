@@ -65,9 +65,10 @@ DOMAIN-KEYWORD,nytimes
 DOMAIN-KEYWORD,nytimes
 DOMAIN-SUFFIX,soundon.fm
 DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,gstatic
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,cbc.ca
+DOMAIN-SUFFIX,cnn.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
