@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,topway.cn
 DOMAIN-SUFFIX,lenovomm.com
+DOMAIN-SUFFIX,carousell.com
+DOMAIN-SUFFIX,karousell.com
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
