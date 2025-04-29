@@ -1,0 +1,15 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# MyList
+# 域名后缀匹配
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,topway.cn
+DOMAIN-SUFFIX,lenovomm.com
+DOMAIN-SUFFIX,carousell.com
+DOMAIN-SUFFIX,karousell.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubdeutsch.net
+DOMAIN-SUFFIX,pornhubpremium.com
