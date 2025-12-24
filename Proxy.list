@@ -1,7 +1,7 @@
 # NC维护的规则
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytimes.com
-DOMAIN-KEYWORD,nytimes
+DOMAIN-SUFFIX,cn.nytimes.com
 DOMAIN-KEYWORD,nytimes
 DOMAIN-SUFFIX,soundon.fm
 DOMAIN-SUFFIX,cbc.ca
