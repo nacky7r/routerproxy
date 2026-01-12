@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,lenovomm.com
 DOMAIN-SUFFIX,carousell.com
 DOMAIN-SUFFIX,karousell.com
 
+# sports
+DOMAIN-SUFFIX,sportsteam586.com
+
 # Firefox
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,mozilla.com
