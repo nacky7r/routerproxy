@@ -9,10 +9,9 @@ DOMAIN-SUFFIX,carousell.com
 DOMAIN-SUFFIX,karousell.com
 
 # sports
-DOMAIN-SUFFIX,m.sportsteam586.com
-DOMAIN-SUFFIX,m.jw1104.com
-DOMAIN-SUFFIX,m.sportsteam53.com
+DOMAIN-SUFFIX,jw1104.com
 DOMAIN-SUFFIX,yumixiu768.com
+DOMAIN-KEYWORD,sportsteam
 
 # Firefox
 DOMAIN-SUFFIX,firefox.com
